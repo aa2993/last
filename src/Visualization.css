@@ -1,0 +1,23 @@
+#chart {
+    margin: 20px auto;
+    display: block;
+    border: 1px solid #ddd;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+    background: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  select {
+    margin-left: 10px;
+  }
+  
